@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "5572c899075d97d95c05c30f2a4873ab4af93dec06be7907f9868418e9c11cad"
+build_start_time: [1675609272, 545884132]
+build_end_time: [1675609279, 789160013]
+inputs:
+  "/Users/fujiiyasunori/Documents/plactice/flutter/flutter_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1675609258, 329549312]
+  "/Users/fujiiyasunori/Documents/plactice/flutter/flutter_app/macos/Runner/AppDelegate.swift": [1671141058, 0]
+  "/Users/fujiiyasunori/Documents/plactice/flutter/flutter_app/macos/Runner/MainFlutterWindow.swift": [1671141058, 0]
